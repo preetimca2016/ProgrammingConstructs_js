@@ -1,4 +1,5 @@
 //Given date find the day
+
 var date = new Date();
 var day = date.getDay();
 switch (day) {

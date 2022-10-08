@@ -1,4 +1,5 @@
 //print the words of numbers from 1's to 1000's
+
 var prompt = require("prompt-sync")();
 let number = prompt("Enter a number as 1,10,100,... ");
 switch (number) {

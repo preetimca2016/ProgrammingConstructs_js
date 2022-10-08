@@ -32,4 +32,5 @@ switch (number) {
   default:
     console.log("Enter valid number");
     break;
+    
 }
