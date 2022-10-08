@@ -1,4 +1,5 @@
 //Number to word using if else if else
+
 var prompt = require("prompt-sync")();
 let number = prompt("Enter the number between 1 and 10 ");
 if (number == 1) {

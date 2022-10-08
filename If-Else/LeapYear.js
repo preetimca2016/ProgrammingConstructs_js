@@ -1,4 +1,5 @@
 //leap year program
+
 var prompt = require("prompt-sync")();
 let year = prompt("Enter year ");
 if (year >= 1000 && year < 10000) {

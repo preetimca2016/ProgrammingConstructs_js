@@ -1,4 +1,5 @@
 //To find min and max using if else
+
 var temp = Math.floor(Math.random() * (999 - 100 + 1)) + 100;
 console.log("1 number is : " + temp);
 var min = temp;

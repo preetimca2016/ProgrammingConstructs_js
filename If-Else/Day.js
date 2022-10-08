@@ -1,5 +1,6 @@
 //Given date find the day
 //Read a Number and Display the week day (Sunday, Monday,...)
+
 var date = new Date();
 //returns integer  0 for sunday and so on..
 var day = date.getDay();
