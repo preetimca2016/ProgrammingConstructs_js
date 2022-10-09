@@ -2,6 +2,7 @@
 var start = 0;
 var end = 100;
 var found = 0;
+
 var letfoundNumber = 0;
 var prompt = require('prompt-sync')();
 //function to find the correct number
